@@ -13,6 +13,7 @@
       "maritalStatus": "Casado(a)",
       "mother": "sóg",
       "father": "sôg",
+      "user_id": 1,
       "id": 1
     },
     {
@@ -28,6 +29,7 @@
       "maritalStatus": "Separado(a)",
       "mother": "Lurdes Silva",
       "father": "Sandro Silva",
+      "user_id": 1,
       "id": 28
     },
     {
@@ -43,6 +45,7 @@
       "maritalStatus": "Casado(a)",
       "mother": "Marta Oliveira",
       "father": "João Oliveira",
+      "user_id": 2,
       "id": 55
     },
     {
@@ -58,6 +61,7 @@
       "maritalStatus": "Solteiro(a)",
       "mother": "Lurdes Silva",
       "father": "Sandro Silva",
+      "user_id": 2,
       "id": 2452
     },
     {
@@ -73,6 +77,7 @@
       "maritalStatus": "Solteiro(a)",
       "mother": "Mariana Pereira",
       "father": "Carlos Santos",
+      "user_id": 3,
       "id": 42
     },
     {
@@ -88,6 +93,7 @@
       "maritalStatus": "Solteiro(a)",
       "mother": "Julia Moreira",
       "father": "Paulo Moreira",
+      "user_id": 3,
       "id": 2248
     },
     {
@@ -103,6 +109,7 @@
       "maritalStatus": "Viúvo(a)",
       "mother": "Lurdes Silva",
       "father": "Sandro Silva",
+      "user_id": 4,
       "id": 24
     },
     {
@@ -118,6 +125,7 @@
       "maritalStatus": "Solteiro(a)",
       "mother": "",
       "father": "",
+      "user_id": 4,
       "id": 2453
     }
   ],
@@ -222,7 +230,7 @@
       "id": 1
     },
     {
-      "name": "admin",
+      "name": "Admin",
       "email": "admin@admin.com",
       "password": "1234",
       "id": 2
@@ -234,28 +242,10 @@
       "id": 3
     },
     {
-      "name": "das",
-      "email": "aadssda",
-      "password": "1",
-      "id": 4
-    },
-    {
-      "name": "asd",
-      "email": "asd",
-      "password": "123",
-      "id": 5
-    },
-    {
-      "name": "Orion",
-      "email": "orion@alves",
-      "password": "123",
-      "id": 6
-    },
-    {
       "name": "Orion Alves",
       "email": "orion@arnia",
       "password": "123",
-      "id": 7
+      "id": 4
     }
   ]
 }
